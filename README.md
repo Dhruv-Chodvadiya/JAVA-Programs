@@ -9,4 +9,23 @@
   <li>Prime or not Prime in Array</li>
   <li>Reverse Array</li>
   <li>Odd and Even Number</li>
+  <li>Pattern</li>
+    <pre> 
+      * * * * *
+      *       *
+      *       *
+      *       *
+      * * * * *</pre>
+  <li>Pattern 2</li>
+    <pre>
+    *
+   ***
+  *****
+ *******
+*********
+ *******
+  *****
+   ***
+    *
+    </pre>
 </ul>
