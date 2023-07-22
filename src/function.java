@@ -7,7 +7,7 @@ public class function {
     }
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-        String name=sc.nextLine();
-        myName(name);
+        String name1=sc.nextLine();
+        myName(name1);
     }
 }
