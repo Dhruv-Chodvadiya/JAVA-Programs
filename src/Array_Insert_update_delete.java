@@ -1,14 +1,13 @@
 import java.util.Scanner;
 
 public class Array_Insert_update_delete {
-    public static int print(int[] arr,int len){
+    public static void print(int[] arr,int len){
         for(int i=0;i<len;i++){
             System.out.print(arr[i]+" ");
         }
-        return 0;
     }
 
-    public static int insert(int[] arr,int p,int len,int size){
+    public static int insert(int[] arr,int p,int len){
         if(p==len){
             System.out.println("Full");
             return 0;
@@ -22,12 +21,12 @@ public class Array_Insert_update_delete {
         return p;
     }
 
-    public static int update(int[] arr,int len){
+    public static int update(int[] arr,int p){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter Update no. : ");
         int val=sc.nextInt();
         --val;
-       for(int i=0;i<len;i++){
+       for(int i=0;i<p;i++){
            if(i==val){
                System.out.print("Enter Update value : ");
                int n=sc.nextInt();
@@ -38,37 +37,32 @@ public class Array_Insert_update_delete {
         return 0;
     }
 
-    public static int delete(int[] arr,int len){
+    public static int delete(int[] arr,int p){
         Scanner sc=new Scanner(System.in);
-        System.out.print("Enter Delete position : ");
+        System.out.print("Enter Delete value : ");
         int val=sc.nextInt();
-        --val;
 
-        for(int i=0;i<len;i++){
-            if(len-1==val){
-                arr[len-1]=0;
-                return arr[len-1];
+        for(int i=0;i<p;i++){
+            if(arr[i]==val){
+                for (int j=i;j<(p-1);j++){
+                    arr[j]=arr[j+1];
+                }p--;
             }
-            if(i==val){
-                arr[i]=arr[i+1];
-                return arr[i];
-            }
-
         }
-        return 0;
+        return p;
     }
-    public static int find(int[] arr,int len){
+    public static void find(int[] arr,int p){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter Find no. : ");
         int val=sc.nextInt();
-        for(int i=0;i<len;i++){
+        for(int i=0;i<p;i++){
             if(arr[i]==val){
                 int ans=i+1;
-                System.out.print("Array position : "+i);
-                return i;
+                System.out.print("Array position : "+ans);
+                return;
             }
         }
-        return 0;
+        System.out.println("Not find");
     }
 
     public static void main(String[] args){
@@ -88,19 +82,19 @@ public class Array_Insert_update_delete {
         while (number>0) {
             switch (number) {
                 case 1:
-                    pointer=insert(arr,pointer,len,arrSize);
+                    pointer=insert(arr,pointer,len);
                     break;
                 case 2:
                     update(arr, len);
                     break;
                 case 3:
-                    delete(arr,len);
+                    pointer=delete(arr,pointer);
                     break;
                 case 4:
-                    print(arr, len);
+                    print(arr, pointer);
                     break;
                 case 5:
-                    find(arr,len);
+                    find(arr,pointer);
                     break;
                 case 6:
                     return;
