@@ -21,7 +21,7 @@ public class Array_Insert_update_delete {
         return p;
     }
 
-    public static int update(int[] arr,int p){
+    public static void update(int[] arr,int p){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter Update no. : ");
         int val=sc.nextInt();
@@ -31,10 +31,8 @@ public class Array_Insert_update_delete {
                System.out.print("Enter Update value : ");
                int n=sc.nextInt();
                arr[i]=n;
-               return arr[i];
            }
         }
-        return 0;
     }
 
     public static int delete(int[] arr,int p){
