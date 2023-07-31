@@ -1,6 +1,7 @@
 # JAVA-Programs
 <ul>
   <li>Array ( Insert , Update , Delete , Find , Print )</li>
+  <li>2 Array common Number</li>
   <li>Average of Array</li>
   <li>Old Array copy to new Array</li>
   <li>Old Array Revers and copy to new Array</li>
