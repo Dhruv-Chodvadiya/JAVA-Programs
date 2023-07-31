@@ -8,6 +8,8 @@
   <li>Large Value finf of Array</li>
   <li>Iterate the old array into the new array 2 times</li>
   <li>Prime or not Prime in Array</li>
+  <li>Print Unique Number in Array</li>
+  <li>Print not unique Number in Array</li>
   <li>Reverse Array</li>
   <li>Odd and Even Number</li>
   <li>Pattern</li>
