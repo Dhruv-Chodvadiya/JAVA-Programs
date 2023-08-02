@@ -12,6 +12,7 @@
   <li>Print Unique Number in Array</li>
   <li>Print not unique Number in Array</li>
   <li>Reverse Array</li>
+  <li>Second large value in Array</li>
   <li>Odd and Even Number</li>
   <li>Pattern</li>
     <pre> 
