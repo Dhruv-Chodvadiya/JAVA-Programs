@@ -16,6 +16,7 @@
   <li>Reverse in memory</li>
   <li>Reverse Array</li>
   <li>Second large value in Array</li>
+  <li>Recursion Factorial</li>
   <li>Odd and Even Number</li>
   <li>Pattern</li>
     <pre> 
