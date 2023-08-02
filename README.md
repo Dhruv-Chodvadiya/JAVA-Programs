@@ -11,6 +11,8 @@
   <li>Prime or not Prime in Array</li>
   <li>Print Unique Number in Array</li>
   <li>Print not unique Number in Array</li>
+  <li>Recursion Fibonacci series</li>
+  <li>Reverse in memory</li>
   <li>Reverse Array</li>
   <li>Second large value in Array</li>
   <li>Odd and Even Number</li>
