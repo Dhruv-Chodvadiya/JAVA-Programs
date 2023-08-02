@@ -12,6 +12,7 @@
   <li>Print Unique Number in Array</li>
   <li>Print not unique Number in Array</li>
   <li>Recursion Fibonacci series</li>
+  <li>Recursion power Number</li>
   <li>Reverse in memory</li>
   <li>Reverse Array</li>
   <li>Second large value in Array</li>
