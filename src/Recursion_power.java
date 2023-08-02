@@ -1,4 +1,4 @@
-public class recursion_power {
+public class Recursion_power {
     public static void main(String[] args) {
         int n=5,x=2;
         int ans=power(x,n);
