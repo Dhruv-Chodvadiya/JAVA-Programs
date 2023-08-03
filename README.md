@@ -17,6 +17,7 @@
   <li>Second large value in Array</li>
   <li><b>001</b> &nbsp; &nbsp; &nbsp; Sum of array element</li>
   <li><b>002</b> &nbsp; &nbsp; &nbsp; Find average of all the element of array</li>
+  <li><b>003</b> &nbsp; &nbsp; &nbsp; Check if element is present or not</li>
   <li>Recursion Factorial</li>
   <li>Odd and Even Number</li>
   <li>Pattern</li>
