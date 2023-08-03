@@ -18,8 +18,11 @@
   <li><b>001</b> &nbsp; &nbsp; &nbsp; Sum of array element</li>
   <li><b>002</b> &nbsp; &nbsp; &nbsp; Find average of all the element of array</li>
   <li><b>003</b> &nbsp; &nbsp; &nbsp; Check if element is present or not</li>
+  <li><b>004</b> &nbsp; &nbsp; &nbsp; Count ODD/EVEN element in array</li>
+  <li><b>005</b> &nbsp; &nbsp; &nbsp; Print array in reverse order</li>
   <li><b>006</b> &nbsp; &nbsp; &nbsp; Print nth element</li>
   <li><b>007</b> &nbsp; &nbsp; &nbsp; Print nth element from last</li>
+  <li><b>008</b> &nbsp; &nbsp; &nbsp; Print alternate element from array</li>
   <li><b>009</b> &nbsp; &nbsp; &nbsp; Print Even elements first then Odd elements from array</li>
   <li><b>010</b> &nbsp; &nbsp; &nbsp; Find largest element from array</li>
   <li>Recursion Factorial</li>
