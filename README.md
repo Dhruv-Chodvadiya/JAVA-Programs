@@ -2,7 +2,6 @@
 <ul>
   <li>Array ( Insert , Update , Delete , Find , Print )</li>
   <li>2 Array common Number</li>
-  <li>Average of Array</li>
   <li>Old Array copy to new Array</li>
   <li>Old Array Revers and copy to new Array</li>
   <li>Find Element of Array</li>
@@ -16,6 +15,8 @@
   <li>Reverse in memory</li>
   <li>Reverse Array</li>
   <li>Second large value in Array</li>
+  <li><b>001</b> &nbsp; &nbsp; &nbsp; Sum of array element</li>
+  <li><b>002</b> &nbsp; &nbsp; &nbsp; Find average of all the element of array</li>
   <li>Recursion Factorial</li>
   <li>Odd and Even Number</li>
   <li>Pattern</li>
