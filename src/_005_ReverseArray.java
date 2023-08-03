@@ -1,4 +1,4 @@
-public class ReverseArray {
+public class _005_ReverseArray {
     public static void main(String[] args) {
         System.out.println("Reverse Array");
         int[] arr={10,20,30,40,50};
