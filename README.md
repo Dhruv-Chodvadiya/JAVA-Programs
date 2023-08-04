@@ -25,6 +25,9 @@
   <li><b>008</b> &nbsp; &nbsp; &nbsp; Print alternate element from array</li>
   <li><b>009</b> &nbsp; &nbsp; &nbsp; Print Even elements first then Odd elements from array</li>
   <li><b>010</b> &nbsp; &nbsp; &nbsp; Find largest element from array</li>
+  <li><b>011</b> &nbsp; &nbsp; &nbsp; Copy array element in another array</li>
+  <li><b>012</b> &nbsp; &nbsp; &nbsp; Store array in reverse order in new array</li>
+  <li><b>013</b> &nbsp; &nbsp; &nbsp; Reverse an array in memory</li>
   <li>Recursion Factorial</li>
   <li>Odd and Even Number</li>
   <li>Pattern</li>
