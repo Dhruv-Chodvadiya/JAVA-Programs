@@ -1,4 +1,4 @@
-public class Print_Unique_number_Array {
+public class _020_Print_Unique_number_Array {
     public static void main(String[] args) {
         int[] arr={1,1,2,3,4,5,5,5};
         int n=1;
