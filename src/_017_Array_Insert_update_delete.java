@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Array_Insert_update_delete {
+public class _017_Array_Insert_update_delete {
     public static void main(String[] args){
 
         Scanner sc=new Scanner(System.in);
