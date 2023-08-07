@@ -20,6 +20,17 @@
   <li><b>018</b> &nbsp; &nbsp; &nbsp; Check if given number is duplicate or not</li>
   <li><b>019</b> &nbsp; &nbsp; &nbsp; Check if given number is unique or not</li>
   <li><b>020</b> &nbsp; &nbsp; &nbsp; Print all unique number from array</li>
+  <li><b>021</b> &nbsp; &nbsp; &nbsp; Print all duplicate number array</li>
+  <li><b>022</b> &nbsp; &nbsp; &nbsp; Find common element between two arrays</li>
+  <li><b>023</b> &nbsp; &nbsp; &nbsp; Find 2nd largest element from array</li>
+  <li><b>024</b> &nbsp; &nbsp; &nbsp; Find 3rd largest element from array</li>
+  <li><b>025</b> &nbsp; &nbsp; &nbsp; Find element-> simple and binary search</li>
+  <li><b>026</b> &nbsp; &nbsp; &nbsp; Pair with sum present or not in shorted array? two pointers</li>
+  <li><b>027</b> &nbsp; &nbsp; &nbsp; Move all 0 to right and 1s to left</li>
+  <li><b>028</b> &nbsp; &nbsp; &nbsp; Move add numbers to left and even numbers to right</li>
+  <li><b>029</b> &nbsp; &nbsp; &nbsp; 1 to n-1 in an array : 1 number is missing -> find out</li>
+  <li><b>030</b> &nbsp; &nbsp; &nbsp; 1 to n in an array : 1 number is duplicate -> find out</li>
+  
   <li>Recursion Factorial</li>
   <li>Odd and Even Number</li>
   <li>Pattern</li>
