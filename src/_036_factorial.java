@@ -1,4 +1,4 @@
-public class factorial {
+public class _036_factorial {
     public static void main(String[] args) {
         int n=5;
         int factorial=fac(n);
