@@ -30,6 +30,13 @@
   <li><b>028</b> &nbsp; &nbsp; &nbsp; Move add numbers to left and even numbers to right</li>
   <li><b>029</b> &nbsp; &nbsp; &nbsp; 1 to n-1 in an array : 1 number is missing -> find out</li>
   <li><b>030</b> &nbsp; &nbsp; &nbsp; 1 to n in an array : 1 number is duplicate -> find out</li>
+  <li><b>031</b> &nbsp; &nbsp; &nbsp; Sort : Bubble sort</li>
+  <li><b>032</b> &nbsp; &nbsp; &nbsp; Sort : Insertion Sort</li>
+  <li><b>033</b> &nbsp; &nbsp; &nbsp; sort : Selection Sort</li>
+  <li><b>034</b> &nbsp; &nbsp; &nbsp; Recursion fibonacci</li>
+  <li><b>035</b> &nbsp; &nbsp; &nbsp; Recursion power</li>
+  <li><b>036</b> &nbsp; &nbsp; &nbsp; Recursion factorial</li>
+  <li><b>036</b> &nbsp; &nbsp; &nbsp; Array left rotation by n positions</li>
   
   <li>Recursion Factorial</li>
   <li>Odd and Even Number</li>
