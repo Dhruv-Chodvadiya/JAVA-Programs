@@ -36,7 +36,8 @@
   <li><b>034</b> &nbsp; &nbsp; &nbsp; Recursion fibonacci</li>
   <li><b>035</b> &nbsp; &nbsp; &nbsp; Recursion power</li>
   <li><b>036</b> &nbsp; &nbsp; &nbsp; Recursion factorial</li>
-  <li><b>036</b> &nbsp; &nbsp; &nbsp; Array left rotation by n positions</li>
+  <li><b>037</b> &nbsp; &nbsp; &nbsp; Array left rotation by n positions</li>
+  <li><b>038</b> &nbsp; &nbsp; &nbsp; 2 sorted arrays marge int arr3 with sort</li>
   
   <li>Recursion Factorial</li>
   <li>Odd and Even Number</li>
