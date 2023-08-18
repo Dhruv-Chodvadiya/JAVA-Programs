@@ -41,6 +41,8 @@
   <li><b>039</b> &nbsp; &nbsp; &nbsp; Array largest sum</li>
   <li><b>040</b> &nbsp; &nbsp; &nbsp; Insert ,Update ,Delete and Find with sort </li>
   <li><b>041</b> &nbsp; &nbsp; &nbsp; Print Matrix </li>
+  <li><b>042</b> &nbsp; &nbsp; &nbsp; Find element from matrix </li>
+  
   <li>Pattern</li>
     <pre> 
       * * * * *
