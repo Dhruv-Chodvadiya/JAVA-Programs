@@ -42,6 +42,7 @@
   <li><b>040</b> &nbsp; &nbsp; &nbsp; Insert ,Update ,Delete and Find with sort </li>
   <li><b>041</b> &nbsp; &nbsp; &nbsp; Print Matrix </li>
   <li><b>042</b> &nbsp; &nbsp; &nbsp; Find element from matrix </li>
+  <li><b>043</b> &nbsp; &nbsp; &nbsp; Sum of element of matrix </li>
   
   <li>Pattern</li>
     <pre> 
