@@ -43,6 +43,7 @@
   <li><b>041</b> &nbsp; &nbsp; &nbsp; Print Matrix </li>
   <li><b>042</b> &nbsp; &nbsp; &nbsp; Find element from matrix </li>
   <li><b>043</b> &nbsp; &nbsp; &nbsp; Sum of element of matrix </li>
+  <li><b>044</b> &nbsp; &nbsp; &nbsp; Print Matrix in Reverse order </li>
   
   <li>Pattern</li>
     <pre> 
