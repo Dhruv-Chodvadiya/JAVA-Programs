@@ -44,6 +44,7 @@
   <li><b>042</b> &nbsp; &nbsp; &nbsp; Find element from matrix </li>
   <li><b>043</b> &nbsp; &nbsp; &nbsp; Sum of element of matrix </li>
   <li><b>044</b> &nbsp; &nbsp; &nbsp; Print Matrix in Reverse order </li>
+  <li><b>045</b> &nbsp; &nbsp; &nbsp; Print Column wise traversal </li>
   
   <li>Pattern</li>
     <pre> 
