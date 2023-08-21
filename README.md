@@ -49,6 +49,7 @@
   <li><b>047</b> &nbsp; &nbsp; &nbsp; Print Matrix in zig zag </li>
   <li><b>048</b> &nbsp; &nbsp; &nbsp; Find highest sum among all row </li>
   <li><b>049</b> &nbsp; &nbsp; &nbsp; Find highest sum among all columns </li>
+  <li><b>050</b> &nbsp; &nbsp; &nbsp; Delete max element from each row </li>
   
   <li>Pattern</li>
     <pre> 
