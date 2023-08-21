@@ -47,6 +47,7 @@
   <li><b>045</b> &nbsp; &nbsp; &nbsp; Print Column wise traversal </li>
   <li><b>046</b> &nbsp; &nbsp; &nbsp; Print mirror image of Matrix </li>
   <li><b>047</b> &nbsp; &nbsp; &nbsp; Print Matrix in zig zag </li>
+  <li><b>048</b> &nbsp; &nbsp; &nbsp; Find highest sum among all row </li>
   
   <li>Pattern</li>
     <pre> 
