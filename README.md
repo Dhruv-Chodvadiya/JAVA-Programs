@@ -53,6 +53,7 @@
   <li><b>051</b> &nbsp; &nbsp; &nbsp; Delete max element from each column </li>
   <li><b>052</b> &nbsp; &nbsp; &nbsp; Print diagonal elements (top-left to bottom-right) </li>
   
+  
   <li>Pattern</li>
     <pre> 
       * * * * *
