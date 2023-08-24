@@ -54,6 +54,7 @@
   <li><b>052</b> &nbsp; &nbsp; &nbsp; Print diagonal elements (top-left to bottom-right) </li>
   <li><b>053</b> &nbsp; &nbsp; &nbsp; Print diagonal elements (top-right to bottom-left) </li>
   <li><b>054</b> &nbsp; &nbsp; &nbsp; Sum of all diagonal elements in matrix (same position not allowed twice) </li>
+  <li><b>055</b> &nbsp; &nbsp; &nbsp; Find element from sorted matrix : Binary search: solution log(row) + log(column) </li>
   
   <li>Pattern</li>
     <pre> 
