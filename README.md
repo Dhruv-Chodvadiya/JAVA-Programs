@@ -56,7 +56,7 @@
   <li><b>054</b> &nbsp; &nbsp; &nbsp; Sum of all diagonal elements in matrix (same position not allowed twice) </li>
   <li><b>055</b> &nbsp; &nbsp; &nbsp; Find element from sorted matrix : Binary search: solution log(row) + log(column) </li>
   <li><b>056</b> &nbsp; &nbsp; &nbsp; Search in a row wise and column wise sorted matrix (approach: Right top pointer) </li>
-  
+  <li><b>057</b> &nbsp; &nbsp; &nbsp; Shortest path to reach from [0,0] to [n,n] </li>
   <li>Pattern</li>
     <pre> 
       * * * * *
