@@ -1,5 +1,5 @@
 # JAVA-Programs
-<ul>
+<ul> 
   <li><b>001</b> &nbsp; &nbsp; &nbsp; Sum of array element</li>
   <li><b>002</b> &nbsp; &nbsp; &nbsp; Find average of all the element of array</li>
   <li><b>003</b> &nbsp; &nbsp; &nbsp; Check if element is present or not</li>
@@ -76,5 +76,16 @@
    ***
     *
     </pre>
+</ul>
 
+<ul>
+    <li><b>001</b><br>
+Write a program which creates a class Student with the following Data Members
+rollNum, studName, mark1, mark2, mark3, totalMarks
+Methods
+setStudDetails() – which sets the values to all the data members except
+totalMarks.
+calculateTotal() - which calculate the totalMarks
+displayStudDetails() – which displays rollNum, studName and totalMarks
+Create a class StudentDemo to test the functionality of Student class.</li>
 </ul>
