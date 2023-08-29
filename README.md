@@ -91,4 +91,9 @@ totalMarks.
 calculateTotal() - which calculate the totalMarks
 displayStudDetails() – which displays rollNum, studName and totalMarks
 Create a class StudentDemo to test the functionality of Student class.</li>
+<br>
+    <li><b>002</b><br>
+Create a class Account with accountNumber, custName, balance and
+interest rate. create method calculateInterest() which will calculate interest
+and add to balance. create a method to displayAccountDetails().</li>
 </ul>
