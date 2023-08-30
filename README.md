@@ -96,4 +96,16 @@ Create a class StudentDemo to test the functionality of Student class.</li>
 Create a class Account with accountNumber, custName, balance and
 interest rate. create method calculateInterest() which will calculate interest
 and add to balance. create a method to displayAccountDetails().</li>
+<br>
+    <li><b>003</b><br>
+Create a class Account with the attributes accountNo, custName,
+accountBalance and
+methods
+setAccountDetails() which set the values to these attributes.
+withdraw() which subtracts the given amount from the available balance
+deposit() which adds a given amount to the available balance and
+dispAccountDetails() which displays accountNo, custName,
+accountBalance.
+Create a class Main1 which contains the main() method to test the functionality of
+Account class.</li>
 </ul>
