@@ -85,7 +85,7 @@
     <li><b>001</b><br>
 Write a program which creates a class Student with the following Data Members
 rollNum, studName, mark1, mark2, mark3, totalMarks
-Methods
+Methods<br>
 setStudDetails() – which sets the values to all the data members except
 totalMarks.
 calculateTotal() - which calculate the totalMarks
@@ -105,7 +105,14 @@ setAccountDetails() which set the values to these attributes.
 withdraw() which subtracts the given amount from the available balance
 deposit() which adds a given amount to the available balance and
 dispAccountDetails() which displays accountNo, custName,
-accountBalance.
+accountBalance.<br>
 Create a class Main1 which contains the main() method to test the functionality of
 Account class.</li>
+<br>
+    <li><b>004</b><br>
+Create a class Student with attributes rollNo, Name, marks1, marks2,
+marks3.<br>
+Create a method getTop3Student() which accepts a list of Students and returns an
+array of 3 top students with the highest percentage.</li>
+
 </ul>
