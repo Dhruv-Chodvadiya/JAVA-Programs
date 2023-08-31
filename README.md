@@ -114,5 +114,35 @@ Create a class Student with attributes rollNo, Name, marks1, marks2,
 marks3.<br>
 Create a method getTop3Student() which accepts a list of Students and returns an
 array of 3 top students with the highest percentage.</li>
+<br>
+    <li><b>005</b><br>
+The Java class called Holiday is stated below. An object of class Holiday
+represents a holiday during the year. This class has three instance variables:<br>
+<ul>name, which is a String representing the name of the holiday</ul>
+<ul>day, which is an int representing the day of the month of the holiday</ul>
+<ul>month, which is a String representing the month the holiday is in</ul>
 
+[//]: # (<pre>)
+
+[//]: # (public class Holiday {)
+
+[//]: # (    private String name;)
+
+[//]: # (    private int day;)
+
+[//]: # (    private String month;)
+
+[//]: # (})
+
+[//]: # (</pre>)
+<ul>A)<br>Write a constructor for the class Holiday, which takes a String representing the
+name, an int representing the day, and a String representing the month as its
+arguments, and sets the class variables to these values.</ul>
+<ul>B)<br>Write a method inSameMonth, which compares two instances of the class Holiday,and
+returns the Boolean value true if they have the same month, and false if they do not.</ul>
+<ul>C)<br>Write a method avgDate which takes an array of base type Holiday as its
+argument, and returns a double that is the average of the day variables in the
+Holiday instances in the array. You may assume that the array is full (i.e. does not have
+any null entries).</ul>
+</li>
 </ul>
