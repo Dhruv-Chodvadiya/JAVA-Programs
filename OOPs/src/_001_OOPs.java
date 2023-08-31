@@ -4,9 +4,10 @@ public class _001_OOPs {
         s1.setStudDetails(101,"Dhruv",90,90,90);
         s1.calculateTotal();
         s1.displayStudDetails();
-        s1.setStudDetails(102,"Dip",95,82,85);
-        s1.calculateTotal();
-        s1.displayStudDetails();
+        Student s2=new Student();
+        s2.setStudDetails(102,"Dip",95,82,85);
+        s2.calculateTotal();
+        s2.displayStudDetails();
     }
 }
 class Student{
