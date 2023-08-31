@@ -118,9 +118,9 @@ array of 3 top students with the highest percentage.</li>
     <li><b>005</b><br>
 The Java class called Holiday is stated below. An object of class Holiday
 represents a holiday during the year. This class has three instance variables:<br>
-<ul>name, which is a String representing the name of the holiday</ul>
-<ul>day, which is an int representing the day of the month of the holiday</ul>
-<ul>month, which is a String representing the month the holiday is in</ul>
+<ul><li>name, which is a String representing the name of the holiday</li></ul>
+<ul><li>day, which is an int representing the day of the month of the holiday</li></ul>
+<ul><li>month, which is a String representing the month the holiday is in</li></ul>
 
 <pre>
 
