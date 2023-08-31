@@ -122,19 +122,19 @@ represents a holiday during the year. This class has three instance variables:<b
 <ul>day, which is an int representing the day of the month of the holiday</ul>
 <ul>month, which is a String representing the month the holiday is in</ul>
 
-[//]: # (<pre>)
+<pre>
 
-[//]: # (public class Holiday {)
+public class Holiday {
 
-[//]: # (    private String name;)
+    private String name;
 
-[//]: # (    private int day;)
+    private int day;
 
-[//]: # (    private String month;)
+    private String month;
 
-[//]: # (})
+}
 
-[//]: # (</pre>)
+</pre>
 <ul>A)<br>Write a constructor for the class Holiday, which takes a String representing the
 name, an int representing the day, and a String representing the month as its
 arguments, and sets the class variables to these values.</ul>
