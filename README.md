@@ -180,4 +180,5 @@ be full.</ul>
 <br>
 <h3>Inheritance</h3>
 <li>Single Inheritance</li>
+<li>Multilevel Inheritance</li>
 </ul>
