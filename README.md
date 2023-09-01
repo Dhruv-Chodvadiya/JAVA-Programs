@@ -145,4 +145,36 @@ argument, and returns a double that is the average of the day variables in the
 Holiday instances in the array. You may assume that the array is full (i.e. does not have
 any null entries).</ul>
 </li>
+<br>
+    <li><b>006</b><br>
+The class Movie is stated below. An instance of class Movie represents a film. This
+class has the following three class variables:<br>
+<ul><li>title, which is a String representing the title of the movie</li></ul>
+<ul><li>studio, which is a String representing the studio that made the movie</li></ul>
+<ul><li>rating, which is a String representing the rating of the movie (1 star, 2 star etc)</li></ul>
+
+<pre>
+
+public class Movie {
+
+    private String title;
+
+    private String studio;
+
+    private String rating;
+
+}
+
+</pre>
+<ul>A)<br>Write a constructor for the class Movie, which takes a String representing the title
+of the movie, a String representing the studio, and a String representing the rating as
+its arguments, and sets the respective class variables to these values.</ul>
+<ul>B)<br>Write a second constructor for the class Movie, which takes a String representing
+the title of the movie and a String representing the studio as its arguments, and sets the
+respective class variables to these values, while the class variable rating is set to "5 star".</ul>
+<ul>C)<br>Write a method get5StarMovies, which takes an array of base type Movie as its
+argument, and returns a new array of only those movies in the input array with a rating of "5
+star". You may assume the input array is full of Movie instances. The returned array need not
+be full.</ul>
+</li>
 </ul>
