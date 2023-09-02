@@ -182,4 +182,5 @@ be full.</ul>
 <li>Single Inheritance</li>
 <li>Multilevel Inheritance</li>
 <li>Hierarchical Inheritance</li>
+<li>Hybrid Inheritance</li>
 </ul>
