@@ -82,7 +82,7 @@
 
 ##  OOPs ( Object Oriented Programming system )
 <ul>
-    <li><b>001</b><br>
+    <li><b>001 ( Assignment 1 ) </b><br>
 Write a program which creates a class Student with the following Data Members
 rollNum, studName, mark1, mark2, mark3, totalMarks
 Methods<br>
@@ -92,12 +92,12 @@ calculateTotal() - which calculate the totalMarks
 displayStudDetails() – which displays rollNum, studName and totalMarks
 Create a class StudentDemo to test the functionality of Student class.</li>
 <br>
-    <li><b>002</b><br>
+    <li><b>002 ( Assignment 1 ) </b><br>
 Create a class Account with accountNumber, custName, balance and
 interest rate. create method calculateInterest() which will calculate interest
 and add to balance. create a method to displayAccountDetails().</li>
 <br>
-    <li><b>003</b><br>
+    <li><b>003 ( Assignment 1 ) </b><br>
 Create a class Account with the attributes accountNo, custName,
 accountBalance and
 methods
@@ -109,13 +109,13 @@ accountBalance.<br>
 Create a class Main1 which contains the main() method to test the functionality of
 Account class.</li>
 <br>
-    <li><b>004</b><br>
+    <li><b>004 ( Assignment 1 ) </b><br>
 Create a class Student with attributes rollNo, Name, marks1, marks2,
 marks3.<br>
 Create a method getTop3Student() which accepts a list of Students and returns an
 array of 3 top students with the highest percentage.</li>
 <br>
-    <li><b>005</b><br>
+    <li><b>005 ( Assignment 1 ) </b><br>
 The Java class called Holiday is stated below. An object of class Holiday
 represents a holiday during the year. This class has three instance variables:<br>
 <ul><li>name, which is a String representing the name of the holiday</li></ul>
@@ -146,7 +146,7 @@ Holiday instances in the array. You may assume that the array is full (i.e. does
 any null entries).</ul>
 </li>
 <br>
-    <li><b>006</b><br>
+    <li><b>006 ( Assignment 1 ) </b><br>
 The class Movie is stated below. An instance of class Movie represents a film. This
 class has the following three class variables:<br>
 <ul><li>title, which is a String representing the title of the movie</li></ul>
@@ -176,6 +176,31 @@ respective class variables to these values, while the class variable rating is s
 argument, and returns a new array of only those movies in the input array with a rating of "5
 star". You may assume the input array is full of Movie instances. The returned array need not
 be full.</ul>
+</li>
+<br>
+<li><b>007 Assignment 2 </b><br>
+Create a class Student that contains following data members<br>
+<ul><li>static variable to create unique number</li></ul>
+<ul><li>A variable to store roll no</li></ul>
+<ul><li>A variable to store name</li></ul>
+<ul><li>An array to store marks of 5 subjects</li></ul>
+<br>
+<ul>A)<br>A constructor with no-parameters that increments static variable and assign it to roll
+number. Remaining data members should be initialized to zero or empty values.
+Input() function to input name and marks of 5 subjects from user.</ul>
+<ul>B)<br>Show() function to display roll number, name and marks of 5 subjects to the user.</ul>
+<ul>C)<br>TotalStudents() function that should display the number of objects that has been
+created so far. This function should be static.</ul>
+<ul>D)<br>TotalMarks() function that should calculate and return to total marks of a student.</ul>
+<ul>E)<br>getHighest() function that returns highest marks of the student.</ul>
+<ul>F)<br>getLowest() function that returns lowest marks of the student.</ul>
+<ul>G)<br>getAverage() function that returns average marks of student.</ul>
+<ul>H)<br>getPassCount() function that counts and returns total number of subjects in which the
+student is passed. (A student is passed if he gets 50% or above marks).</ul>
+<ul>I)<br>In main function, create three objects, input their values and display them. For each
+student, display his total marks, highest, lowest, average marks and the number of
+subjects in which he is passed. Also display how many students have been registered so
+far.</ul>
 </li>
 <br>
 <h3>Inheritance</h3>
