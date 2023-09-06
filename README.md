@@ -208,4 +208,7 @@ far.</ul>
 <li>Multilevel Inheritance</li>
 <li>Hierarchical Inheritance</li>
 <li>Hybrid Inheritance</li>
+<br>
+<h3>Polymorphism</h3>
+<li>Method Overloading (  Compile-time Polymorphism ) </li>
 </ul>
