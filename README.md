@@ -211,4 +211,5 @@ far.</ul>
 <br>
 <h3>Polymorphism</h3>
 <li>Method Overloading (  Compile-time Polymorphism ) </li>
+<li>Method Overriding ( Run-time Polymorphism ) </li>
 </ul>
