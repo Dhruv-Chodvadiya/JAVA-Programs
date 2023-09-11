@@ -178,7 +178,7 @@ star". You may assume the input array is full of Movie instances. The returned a
 be full.</ul>
 </li>
 <br>
-<li><b>007 Assignment 2 </b><br>
+<li><b>007 ( Assignment 2 ) </b><br>
 Create a class Student that contains following data members<br>
 <ul><li>static variable to create unique number</li></ul>
 <ul><li>A variable to store roll no</li></ul>
@@ -201,6 +201,17 @@ student is passed. (A student is passed if he gets 50% or above marks).</ul>
 student, display his total marks, highest, lowest, average marks and the number of
 subjects in which he is passed. Also display how many students have been registered so
 far.</ul>
+</li>
+<br>
+<li><b>008 ( Assignment 3  ) </b><br>
+Design and develop an interface for Vehicles Consider the example of vehicles like
+bicycle, car and bike.<br>
+All Vehicles have common functionality such as Gear Change..
+Bicycle, Bike, Car classes should implement functionality in their own class in their own
+way.<br>
+<ul>A)<br>Bicycle: max gear is 2 </ul>
+<ul>B)<br>Bike: max gear is 5 </ul>
+<ul>D)<br>Car: max gear is 7</ul>
 </li>
 <br>
 <h3>Inheritance</h3>
