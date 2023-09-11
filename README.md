@@ -214,6 +214,7 @@ way.<br>
 <ul>D)<br>Car: max gear is 7</ul>
 </li>
 <br>
+
 <h3>Inheritance</h3>
 <li>Single Inheritance</li>
 <li>Multilevel Inheritance</li>
