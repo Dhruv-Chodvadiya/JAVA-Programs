@@ -230,5 +230,11 @@ way.<br>
 #  ArrayList 
 <hr>
 <ul>
-    <li>Add Element&nbsp;&nbsp | &nbsp;Set Element&nbsp; | &nbsp;Delete Element &nbsp;|&nbsp; Size&nbsp; | &nbsp;Loops &nbsp;|&nbsp; Sorting </li>
+    <li>Add Element&nbsp | &nbsp;Set Element&nbsp; | &nbsp;Delete Element &nbsp;|&nbsp; Size&nbsp; | &nbsp;Loops &nbsp;|&nbsp; Sorting </li>
+</ul>
+
+#  LinkedList
+<hr>
+<ul>
+    <li>Add - First &nbsp; | &nbsp; Add - Last &nbsp;| &nbsp; Delete - First &nbsp; | &nbsp; Delete - Last &nbsp; | &nbsp; Print &nbsp; | &nbsp; Size</li>
 </ul>
