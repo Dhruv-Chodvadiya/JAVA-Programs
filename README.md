@@ -225,3 +225,10 @@ way.<br>
 <li>Method Overloading (  Compile-time Polymorphism ) </li>
 <li>Method Overriding ( Run-time Polymorphism ) </li>
 </ul>
+
+
+#  ArrayList 
+<hr>
+<ul>
+    <li>Add Element&nbsp;&nbsp | &nbsp;Set Element&nbsp; | &nbsp;Delete Element &nbsp;|&nbsp; Size&nbsp; | &nbsp;Loops &nbsp;|&nbsp; Sorting </li>
+</ul>
