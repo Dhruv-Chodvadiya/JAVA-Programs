@@ -224,7 +224,12 @@ way.<br>
 <h3>Polymorphism</h3>
 <li>Method Overloading (  Compile-time Polymorphism ) </li>
 <li>Method Overriding ( Run-time Polymorphism ) </li>
+
+<br>
+<h3>Inheritance ( IS - A ) | Aggregation ( HAS - A )</h3>
 </ul>
+
+
 
 
 #  ArrayList 
