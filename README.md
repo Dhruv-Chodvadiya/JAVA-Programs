@@ -227,6 +227,8 @@ way.<br>
 
 <br>
 <h3>Inheritance ( IS - A ) | Aggregation ( HAS - A )</h3>
+
+<h3>Enum</h3>
 </ul>
 
 
