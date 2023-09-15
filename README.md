@@ -212,13 +212,21 @@ way.<br>
 <ul>A)<br>Bicycle: max gear is 2 </ul>
 <ul>B)<br>Bike: max gear is 5 </ul>
 <ul>D)<br>Car: max gear is 7</ul>
-</li>
+</li><br>
 <li><b>009 ( Assignment 4  ) </b><br>
 Write a Java program to create a class called "Dog" with a name and
 colour attribute. Create two instances of the "Dog" class, set their
 attributes using the constructor and modify the attributes using the
 setter methods and print the updated values.
+</li>
 <br>
+<li><b>010 ( Assignment 4  ) </b><br>
+Write a Java program to create a class called “Employee” with attributes
+empId, name, JobTitle (Enum: Peon, Prof, HOD, Principal), salary.
+Create an array of 10 objects of Employee class. Write a method to
+calculate and print titlewise total salary the company has to pay.
+</li>
+
 
 <h3>Inheritance</h3>
 <li>Single Inheritance</li>
