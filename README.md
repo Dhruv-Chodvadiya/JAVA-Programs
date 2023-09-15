@@ -225,6 +225,12 @@ Write a Java program to create a class called “Employee” with attributes
 empId, name, JobTitle (Enum: Peon, Prof, HOD, Principal), salary.
 Create an array of 10 objects of Employee class. Write a method to
 calculate and print titlewise total salary the company has to pay.
+</li><br>
+<li><b>011 ( Assignment 4  ) </b><br>
+A company has 10 employees with id 1001,1002,...1010. Create a class
+SalarySlip with attributes empId, name, salary, month (1 to 12). Create
+an array of SalarySlip objects and Calculate top 2 highest salary of each
+month 1 to 12
 </li>
 
 
