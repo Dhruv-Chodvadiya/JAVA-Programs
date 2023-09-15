@@ -213,6 +213,11 @@ way.<br>
 <ul>B)<br>Bike: max gear is 5 </ul>
 <ul>D)<br>Car: max gear is 7</ul>
 </li>
+<li><b>009 ( Assignment 4  ) </b><br>
+Write a Java program to create a class called "Dog" with a name and
+colour attribute. Create two instances of the "Dog" class, set their
+attributes using the constructor and modify the attributes using the
+setter methods and print the updated values.
 <br>
 
 <h3>Inheritance</h3>
