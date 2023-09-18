@@ -251,6 +251,11 @@ month 1 to 12
 </ul>
 
 
+# String
+<hr>
+<ul>
+    <li>String | Variable | Character | String OBJ. | ( == ) & ( .equals(); )</li>
+</ul>
 
 
 #  ArrayList 
