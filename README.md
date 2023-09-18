@@ -255,6 +255,7 @@ month 1 to 12
 <hr>
 <ul>
     <li>String | Variable | Character | String OBJ. | ( == ) & ( .equals(); )</li>
+    <li>Reverse a String</li>
 </ul>
 
 
