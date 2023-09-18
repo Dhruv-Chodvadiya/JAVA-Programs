@@ -256,6 +256,7 @@ month 1 to 12
 <ul>
     <li>String | Variable | Character | String OBJ. | ( == ) & ( .equals(); )</li>
     <li>Reverse a String</li>
+    <li>String is Palindrome or Not.</li>
 </ul>
 
 
