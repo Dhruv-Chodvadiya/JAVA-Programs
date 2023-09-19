@@ -254,14 +254,14 @@ month 1 to 12
 # String
 <hr>
 <ul>
-    <li>String | Variable | Character | String OBJ. | ( == ) & ( .equals(); )</li>
-    <li>Reverse a String</li>
-    <li>String is Palindrome or Not.</li>
-    <li>Count Number of words in a String ( with split / without split ) </li>
-    <li>Program to check if two strings are same or not ( without using inbuilt function
+    <li><b>000</b> &nbsp; &nbsp; &nbsp; String | Variable | Character | String OBJ. | ( == ) & ( .equals(); )</li>
+    <li><b>001</b> &nbsp; &nbsp; &nbsp; Reverse a String</li>
+    <li><b>002</b> &nbsp; &nbsp; &nbsp; String is Palindrome or Not.</li>
+    <li><b>003</b> &nbsp; &nbsp; &nbsp; Count Number of words in a String ( with split / without split ) </li>
+    <li><b>004</b> &nbsp; &nbsp; &nbsp; Program to check if two strings are same or not ( without using inbuilt function
 .equals() )</li>
-    <li>Update a character in a string ( without using .replace() function )</li>
-    <li>Sort string of characters</li>
+    <li><b>005</b> &nbsp; &nbsp; &nbsp; Update a character in a string ( without using .replace() function )</li>
+    <li><b>006</b> &nbsp; &nbsp; &nbsp; Sort string of characters</li>
 </ul>
 
 
