@@ -258,6 +258,8 @@ month 1 to 12
     <li>Reverse a String</li>
     <li>String is Palindrome or Not.</li>
     <li>Count Number of words in a String ( with split / without split ) </li>
+    <li>Program to check if two strings are same or not (without using inbuilt function
+.equals())</li>
 </ul>
 
 
