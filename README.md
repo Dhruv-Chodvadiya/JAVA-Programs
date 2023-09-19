@@ -261,6 +261,7 @@ month 1 to 12
     <li>Program to check if two strings are same or not ( without using inbuilt function
 .equals() )</li>
     <li>Update a character in a string ( without using .replace() function )</li>
+    <li>Sort string of characters</li>
 </ul>
 
 
