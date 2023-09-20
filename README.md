@@ -263,6 +263,7 @@ month 1 to 12
     <li><b>005</b> &nbsp; &nbsp; &nbsp; Update a character in a string ( without using .replace() function )</li>
     <li><b>006</b> &nbsp; &nbsp; &nbsp; Sort string of characters</li>
     <li><b>007</b> &nbsp; &nbsp; &nbsp; Print frequency of all the characters in string</li>
+    <Li><b>008</b> &nbsp; &nbsp; &nbsp; Remove Vowels from a String</Li>
 </ul>
 
 
