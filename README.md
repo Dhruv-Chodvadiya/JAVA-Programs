@@ -267,6 +267,7 @@ month 1 to 12
     <li><b>009</b> &nbsp; &nbsp; &nbsp; Reverse Words internally in a String</li>
     <li><b>010</b> &nbsp; &nbsp; &nbsp; Find duplicate chars from string</li>
     <li><b>011</b> &nbsp; &nbsp; &nbsp; Remove All Digits</li>
+    <li><b>012</b> &nbsp; &nbsp; &nbsp; Merge Strings Alternatively</li>
 </ul>
 
 
