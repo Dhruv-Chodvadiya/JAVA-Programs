@@ -266,6 +266,7 @@ month 1 to 12
     <Li><b>008</b> &nbsp; &nbsp; &nbsp; Remove Vowels from a String</Li>
     <li><b>009</b> &nbsp; &nbsp; &nbsp; Reverse Words internally in a String</li>
     <li><b>010</b> &nbsp; &nbsp; &nbsp; Find duplicate chars from string</li>
+    <li><b>011</b> &nbsp; &nbsp; &nbsp; Remove All Digits</li>
 </ul>
 
 
