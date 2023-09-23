@@ -274,6 +274,7 @@ month 1 to 12
     <br>
     <ul><b>Practice</b>
         <li>Swap two strings of same size without using third string</li>
+        <li>Convert a string into an integer without using Integer.parseInt() function</li>
     </ul>
 </ul>
 
