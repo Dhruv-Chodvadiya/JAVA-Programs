@@ -272,7 +272,7 @@ month 1 to 12
     <li><b>014</b> &nbsp; &nbsp; &nbsp; Check if string have equal digits and chars</li>
     <li><b>014</b> &nbsp; &nbsp; &nbsp; Remove duplicate chars from string</li>
     <br>
-    <ul><b>Practice</b>
+    <ul><b>Practice</b><br><br>
         <li>Swap two strings of same size without using third string</li>
         <li>Convert a string into an integer without using Integer.parseInt() function</li>
     </ul>
