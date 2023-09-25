@@ -276,6 +276,16 @@ month 1 to 12
         <li>Swap two strings of same size without using third string</li>
         <li>Convert a string into an integer without using Integer.parseInt() function</li>
         <li>Check if two strings are permutation of each other or not?</li>
+        <li>Pattern:</li>
+        <pre>
+P
+PR
+PRO
+PROG
+PROGR
+PROGRA
+PROGRAM
+        </pre>
     </ul>
 </ul>
 
