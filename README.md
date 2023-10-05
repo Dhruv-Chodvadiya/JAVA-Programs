@@ -296,6 +296,7 @@ PROGRAM
     <li>Basic Stack</li>
     <li><b>001</b> &nbsp; &nbsp; &nbsp; Reverse string using stack</li>
     <li><b>002</b> &nbsp; &nbsp; &nbsp; Reverse Sentance using stack</li>
+    <li><b>003</b> &nbsp; &nbsp; &nbsp; Middle element remove using stack</li>
 </ul>
 
 #  ArrayList 
