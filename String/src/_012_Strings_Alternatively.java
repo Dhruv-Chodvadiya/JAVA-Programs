@@ -12,7 +12,7 @@ public class _012_Strings_Alternatively {
 
         while (i<n1.length && j<n2.length){
             name3+=n1[i];
-            name3+=n2[i];
+            name3+=n2[j];
             i++;
             j++;
         }
