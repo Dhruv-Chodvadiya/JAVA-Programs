@@ -1,6 +1,6 @@
 public interface _014_equal_digits_and_chars {
     public static void main(String[] args) {
-        String name="Dhruv12345";
+        String name="Dhruvv123459";
         char[] chars=name.toCharArray();
 
         int num=0;
@@ -8,7 +8,7 @@ public interface _014_equal_digits_and_chars {
         int i=0;
 
         while (i<chars.length){
-            if(chars[i] >= '0' && chars[i]<'9'){
+            if(chars[i] >= '0' && chars[i] <= '9'){
                 num++;
                 i++;
             }else {
