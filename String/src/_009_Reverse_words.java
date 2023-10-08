@@ -10,6 +10,8 @@ public class _009_Reverse_words {
                 left = i+1;
             }
         }
+        right = arr.length-1;
+        reverseWord(arr, left, right);
         System.out.println(new String(arr));
     }
     public static void reverseWord(char[] cArray, int left, int right){
