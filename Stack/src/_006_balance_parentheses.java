@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class _005_balance_parentheses {
+public class _006_balance_parentheses {
     public static void main(String[] args) {
         String s = "(()())(())";
         Stack<Character> stack = new Stack<>();
