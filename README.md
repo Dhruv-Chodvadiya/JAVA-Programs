@@ -296,9 +296,10 @@ PROGRAM
     <li>Basic Stack</li>
     <li><b>001</b> &nbsp; &nbsp; &nbsp; Reverse string using stack</li>
     <li><b>002</b> &nbsp; &nbsp; &nbsp; Reverse Sentance using stack</li>
-    <li><b>003</b> &nbsp; &nbsp; &nbsp; Middle element remove using stack</li>
-    <li><b>004</b> &nbsp; &nbsp; &nbsp; Get Min value using stack</li>
-    <li><b>005</b> &nbsp; &nbsp; &nbsp; Balance parentheses using stack</li>
+    <li><b>003</b> &nbsp; &nbsp; &nbsp; Check if string is palindrome or not using stack</li>
+    <li><b>004</b> &nbsp; &nbsp; &nbsp; Middle element remove using stack</li>
+    <li><b>005</b> &nbsp; &nbsp; &nbsp; Get Min value using stack</li>
+    <li><b>006</b> &nbsp; &nbsp; &nbsp; Balance parentheses using stack</li>
 </ul>
 
 #  ArrayList 
