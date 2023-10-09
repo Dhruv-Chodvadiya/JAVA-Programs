@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Reverse_sentance_002 {
+public class _002_Reverse_sentance {
     public static void main(String[] args) {
         String s = "Hello Good Morning";
         Stack<Character> stack = new Stack<>();
