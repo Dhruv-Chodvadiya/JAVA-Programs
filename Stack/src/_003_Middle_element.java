@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Middle_element_003 {
+public class _003_Middle_element {
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
         Stack<Integer> stack1 = new Stack<>();
