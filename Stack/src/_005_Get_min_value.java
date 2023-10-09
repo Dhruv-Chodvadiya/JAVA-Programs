@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class _004_Get_min_value {
+public class _005_Get_min_value {
     static int min = Integer.MAX_VALUE;
     static Stack<Integer> stack = new Stack<>();
     public static void main(String[] args) {
