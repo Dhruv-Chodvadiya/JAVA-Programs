@@ -300,6 +300,7 @@ PROGRAM
     <li><b>004</b> &nbsp; &nbsp; &nbsp; Middle element remove using stack</li>
     <li><b>005</b> &nbsp; &nbsp; &nbsp; Get Min value using stack</li>
     <li><b>006</b> &nbsp; &nbsp; &nbsp; Balance parentheses using stack</li>
+    <li><b>007</b> &nbsp; &nbsp; &nbsp; Prefix to Infix Conversion</li>
 </ul>
 
 #  ArrayList 
