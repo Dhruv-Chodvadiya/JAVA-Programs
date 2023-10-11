@@ -303,6 +303,7 @@ PROGRAM
     <li><b>007</b> &nbsp; &nbsp; &nbsp; Prefix to Infix Conversion</li>
     <li><b>008</b> &nbsp; &nbsp; &nbsp; Prefix to postfix Conversion</li>
     <li><b>009</b> &nbsp; &nbsp; &nbsp; postfix to Infix Conversion</li>
+    <li><b>010</b> &nbsp; &nbsp; &nbsp; postfix to prefix Conversion</li>
 </ul>
 
 #  ArrayList 
