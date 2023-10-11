@@ -301,6 +301,7 @@ PROGRAM
     <li><b>005</b> &nbsp; &nbsp; &nbsp; Get Min value using stack</li>
     <li><b>006</b> &nbsp; &nbsp; &nbsp; Balance parentheses using stack</li>
     <li><b>007</b> &nbsp; &nbsp; &nbsp; Prefix to Infix Conversion</li>
+    <li><b>008</b> &nbsp; &nbsp; &nbsp; Prefix to postfix Conversion</li>
 </ul>
 
 #  ArrayList 
