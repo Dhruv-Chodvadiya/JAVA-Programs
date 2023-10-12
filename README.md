@@ -305,6 +305,7 @@ PROGRAM
     <li><b>009</b> &nbsp; &nbsp; &nbsp; postfix to Infix Conversion</li>
     <li><b>010</b> &nbsp; &nbsp; &nbsp; postfix to prefix Conversion</li>
     <li><b>011</b> &nbsp; &nbsp; &nbsp; Remove All Adjacent Duplicates In String</li>
+    <li><b>012</b> &nbsp; &nbsp; &nbsp; Implement two Stacks in an Array</li>
 </ul>
 
 #  ArrayList 
