@@ -38,6 +38,14 @@ public class _012_two_Stacks {
         arr[r]=val;
         return r;
     }
+    public static int pop1(int l,int[] arr){
+        if(l==-1){
+            System.out.println("Empty");
+            return l;
+        }
+        l--;
+        return l;
+    }
     public static void print1(int l,int[] arr){
         for(int i=l;i>=0;i--){
             System.out.print(arr[i]+" ");
