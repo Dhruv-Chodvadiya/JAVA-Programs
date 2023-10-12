@@ -304,6 +304,7 @@ PROGRAM
     <li><b>008</b> &nbsp; &nbsp; &nbsp; Prefix to postfix Conversion</li>
     <li><b>009</b> &nbsp; &nbsp; &nbsp; postfix to Infix Conversion</li>
     <li><b>010</b> &nbsp; &nbsp; &nbsp; postfix to prefix Conversion</li>
+    <li><b>011</b> &nbsp; &nbsp; &nbsp; Remove All Adjacent Duplicates In String</li>
 </ul>
 
 #  ArrayList 
