@@ -306,6 +306,7 @@ PROGRAM
     <li><b>010</b> &nbsp; &nbsp; &nbsp; postfix to prefix Conversion</li>
     <li><b>011</b> &nbsp; &nbsp; &nbsp; Remove All Adjacent Duplicates In String</li>
     <li><b>012</b> &nbsp; &nbsp; &nbsp; Implement two Stacks in an Array</li>
+    <li><b>013</b> &nbsp; &nbsp; &nbsp; getMin() in O(1) time and O(1) extra space</li>
 </ul>
 
 #  ArrayList 
