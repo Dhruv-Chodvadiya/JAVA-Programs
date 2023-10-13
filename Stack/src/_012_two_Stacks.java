@@ -17,7 +17,6 @@ public class _012_two_Stacks {
         r=push2(100,arr,l,r);
 
         print1(l,arr);
-
         print2(r,arr);
     }
     public static int push1(int val,int[] arr,int l,int r){
