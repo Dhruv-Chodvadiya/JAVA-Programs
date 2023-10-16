@@ -11,5 +11,7 @@ public class _014_Queue {
             System.out.println("Full");
             return;
         }
+        rear++;
+        queue[rear]=val;
     }
 }
