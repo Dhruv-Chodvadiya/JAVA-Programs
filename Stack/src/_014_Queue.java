@@ -5,6 +5,11 @@ public class _014_Queue {
     static int front=-1,rear=-1;
     public static void main(String[] args) {
         enqueue(10);
+        enqueue(20);
+        enqueue(30);
+
+        dequeue();
+
     }
     public static void enqueue(int val){
         if(rear== queue.length-1){
@@ -13,5 +18,17 @@ public class _014_Queue {
         }
         rear++;
         queue[rear]=val;
+    }
+    public static void dequeue(){
+        if(front==rear){
+            System.out.println("Empty");
+            return;
+        }
+        front++;
+        System.out.println(queue[front]+" DELETE");
+        if(front==rear){
+            front=-1;
+            rear=-1;
+        }
     }
 }
