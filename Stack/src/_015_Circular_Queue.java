@@ -9,9 +9,9 @@ public class _015_Circular_Queue {
         add(30);
         add(40);
         add(50);
-//        remove();
-//        add(60);
-//        remove();
+        remove();
+        add(60);
+        remove();
         System.out.println(Arrays.toString(queue));
     }
     public static void add(int val){
