@@ -13,6 +13,18 @@ public class _015_Circular_Queue {
         add(60);
         remove();
         System.out.println(Arrays.toString(queue));
+
+
+        int i=front;
+        int j=rear;
+        while (i != j){
+            System.out.print(queue[i]+" ");
+            i=(i+1)% queue.length;
+            if(i == queue.length-1){
+                j=j+1;
+            }
+        }
+
     }
     public static void add(int val){
         if((rear+1)% queue.length==front){
