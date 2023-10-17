@@ -25,4 +25,15 @@ public class _015_Circular_Queue {
         rear=(rear+1)% queue.length;
         queue[rear]=val;
     }
+    public static void remove(){
+        if(front==-1 && rear==-1){
+            System.out.println("Empty");
+            return;
+        }
+        if(rear==front){
+            rear = front = -1;
+        }else {
+            front = ( front + 1 ) % queue.length;
+        }
+    }
 }
