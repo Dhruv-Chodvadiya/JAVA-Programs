@@ -1,11 +1,12 @@
-import java.util.Stack;
+import java.util.LinkedList;
+import java.util.Queue;
 
 public class _016_Stack_using_2_Queues {
     public static void main(String[] args) {
-        Queue q1 = new Queue();
+        Stack s = new Stack();
     }
-    public static class Queue {
-        static Stack<Integer> s1 = new Stack<>();
-        static Stack<Integer> s2 = new Stack<>();
+    public static class Stack{
+        Queue<Integer> q1 = new LinkedList<>();
+        Queue<Integer> q2 = new LinkedList<>();
     }
 }
