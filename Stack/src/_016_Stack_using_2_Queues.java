@@ -9,10 +9,10 @@ public class _016_Stack_using_2_Queues {
         s.push(20);
         s.push(30);
 
-//        while (!s.isEmpty()){
-//            System.out.println(s.peek());
-//            s.pop();
-//        }
+        while (!s.isEmpty()){
+            System.out.println(s.peek());
+            s.pop();
+        }
 
     }
     public static class Stack{
@@ -57,5 +57,24 @@ public class _016_Stack_using_2_Queues {
             return top;
         }
 
+        public int peek() {
+            if (isEmpty()) {
+                System.out.println("Queue is Empty");
+                return -1;
+            }
+            int top = -1;
+            if (!q1.isEmpty()) {
+                while (!q1.isEmpty()) {
+                    top = q1.remove();
+                    q2.add(top);
+                }
+            } else {
+                while (!q2.isEmpty()) {
+                    top = q2.remove();
+                    q1.add(top);
+                }
+            }
+            return top;
+        }
     }
 }
