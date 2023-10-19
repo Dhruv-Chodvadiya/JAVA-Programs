@@ -311,6 +311,7 @@ PROGRAM
     <li><b>014</b> &nbsp; &nbsp; &nbsp; Queue</li>
     <li><b>015</b> &nbsp; &nbsp; &nbsp; Circular Queue</li>
     <li><b>016</b> &nbsp; &nbsp; &nbsp; Implement Stack using 2 Queues</li>
+    <li><b>017</b> &nbsp; &nbsp; &nbsp; Implement Queue using 2 Stacks</li>
     
 </ul>
 
