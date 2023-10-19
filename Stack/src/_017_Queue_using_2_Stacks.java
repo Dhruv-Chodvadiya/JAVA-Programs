@@ -15,11 +15,9 @@ public class _017_Queue_using_2_Stacks {
     public static class Queue {
         static Stack<Integer> s1 = new Stack<>();
         static Stack<Integer> s2 = new Stack<>();
-
         public void add(int val){
             s1.add(val);
         }
-
         public void remove() {
             int top=-1;
             if (!s1.isEmpty()) {
@@ -35,7 +33,6 @@ public class _017_Queue_using_2_Stacks {
                 }
             }
         }
-
         public void print(){
             while (!s1.isEmpty()){
                 s2.push(s1.pop());
@@ -44,7 +41,5 @@ public class _017_Queue_using_2_Stacks {
                 System.out.print(s2.pop()+" ");
             }
         }
-
-
     }
 }
