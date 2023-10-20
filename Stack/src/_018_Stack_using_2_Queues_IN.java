@@ -8,6 +8,8 @@ public class _018_Stack_using_2_Queues_IN {
         s1.push1(20);
         s1.push1(30);
         s1.push1(40);
+
+        s1.print();
     }
     public static class Stack {
         Queue<Integer> q1 = new LinkedList<>();
@@ -24,6 +26,11 @@ public class _018_Stack_using_2_Queues_IN {
                 while (!q2.isEmpty()){
                     q1.add(q2.poll());
                 }
+            }
+        }
+        public void print(){
+            while (!q1.isEmpty()){
+                System.out.print(q1.poll()+" ");
             }
         }
     }
