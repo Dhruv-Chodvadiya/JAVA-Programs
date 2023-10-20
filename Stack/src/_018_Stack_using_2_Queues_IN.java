@@ -9,6 +9,8 @@ public class _018_Stack_using_2_Queues_IN {
         s1.push1(30);
         s1.push1(40);
 
+        s1.pop();
+
         s1.print();
     }
     public static class Stack {
@@ -27,6 +29,9 @@ public class _018_Stack_using_2_Queues_IN {
                     q1.add(q2.poll());
                 }
             }
+        }
+        public void pop(){
+            q1.poll();
         }
         public void print(){
             while (!q1.isEmpty()){
