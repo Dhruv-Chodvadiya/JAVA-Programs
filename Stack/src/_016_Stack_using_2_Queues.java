@@ -10,8 +10,8 @@ public class _016_Stack_using_2_Queues {
         s.push(30);
 
         while (!s.isEmpty()){
-            System.out.println(s.peek());
-            s.pop();
+            System.out.print(s.pop()+" ");
+//            s.pop();
         }
 
     }
