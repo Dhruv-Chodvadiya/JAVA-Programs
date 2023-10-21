@@ -8,6 +8,10 @@ public class _019_Queue_using_2_stacks_IN {
         q.add(30);
         q.remove();
 
+        while (!q.isEmpty()) {
+            System.out.print(q.remove()+" ");
+        }
+
     }
     public static class Queue {
         static Stack<Integer> s1 = new Stack<>();
