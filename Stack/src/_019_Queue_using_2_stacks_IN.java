@@ -33,5 +33,8 @@ public class _019_Queue_using_2_stacks_IN {
 
             return s1.pop();
         }
+        public int peek() {
+            return s1.peek();
+        }
     }
 }
