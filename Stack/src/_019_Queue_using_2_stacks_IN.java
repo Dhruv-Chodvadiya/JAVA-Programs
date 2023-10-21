@@ -6,6 +6,7 @@ public class _019_Queue_using_2_stacks_IN {
         q.add(10);
         q.add(20);
         q.add(30);
+        q.remove();
 
     }
     public static class Queue {
@@ -23,6 +24,14 @@ public class _019_Queue_using_2_stacks_IN {
             while (!s2.isEmpty()) {
                 s1.push(s2.pop());
             }
+        }
+        public int remove() {
+            if (isEmpty()) {
+                System.out.println("Stack is Empty");
+                return -1;
+            }
+
+            return s1.pop();
         }
     }
 }
