@@ -290,8 +290,10 @@ PROGRAM
 </ul>
 
 
-#   Stack
+#   Stack & Queue
 <hr>
+
+#   Stack
 <ul>
     <li>Basic Stack</li>
     <li><b>001</b> &nbsp; &nbsp; &nbsp; Reverse string using stack</li>
@@ -307,7 +309,9 @@ PROGRAM
     <li><b>011</b> &nbsp; &nbsp; &nbsp; Remove All Adjacent Duplicates In String</li>
     <li><b>012</b> &nbsp; &nbsp; &nbsp; Implement two Stacks in an Array</li>
     <li><b>013</b> &nbsp; &nbsp; &nbsp; getMin() in O(1) time and O(1) extra space</li>
-    <br>
+
+#   Queue
+<br>
     <li><b>014</b> &nbsp; &nbsp; &nbsp; Queue</li>
     <li><b>015</b> &nbsp; &nbsp; &nbsp; Circular Queue</li>
     <li><b>016</b> &nbsp; &nbsp; &nbsp; Implement Stack using 2 Queues</li>
