@@ -1,6 +1,15 @@
 public class _001_Basic_LinkedList {
     public static void main(String[] args) {
+        LinkedL list = new LinkedL();
 
+        list.print();
+        list.insert(10);
+        list.insert(20);
+        list.insert(30);
+        list.insert(40);
+        list.insert(50);
+        list.print();
+        list.find(30);
     }
 }
 class LinkedL{
