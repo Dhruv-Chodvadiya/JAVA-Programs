@@ -252,6 +252,7 @@ month 1 to 12
 
 
 # String
+
 <hr>
 <ul>
     <li><b>000</b> &nbsp; &nbsp; &nbsp; String | Variable | Character | String OBJ. | ( == ) & ( .equals(); )</li>
