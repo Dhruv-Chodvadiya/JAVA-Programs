@@ -1,6 +1,7 @@
 package _004_doubly_linkedlist;
 
 public class doubly {
+    Node head;
     private int size;
 
     doubly() {
@@ -15,6 +16,17 @@ public class doubly {
             this.next=null;
             size++;
         }
+    }
+
+    public void addFirst(String data) {
+        Node newNode = new Node(data);
+        if(head == null) {
+            head = newNode;
+            return;
+        }
+
+        newNode.next=head;
+        head = newNode;
     }
 }
 
