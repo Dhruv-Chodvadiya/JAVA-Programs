@@ -80,6 +80,8 @@ public class doubly {
         }
         currNode.next=null;
     }
-//    public
+    public int getSize(){
+        return size;
+    }
 }
 
