@@ -83,5 +83,8 @@ public class doubly {
     public int getSize(){
         return size;
     }
+    public void reverseIterate() {
+
+    }
 }
 
