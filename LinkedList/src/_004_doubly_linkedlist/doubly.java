@@ -67,6 +67,11 @@ public class doubly {
             System.out.println("List is empty");
             return;
         }
+        size--;
+        if (head.next == null) {
+            head = null;
+            return;
+        }
         Node currNode = head;
         Node nextNode = head.next;
         while(nextNode != null) {
@@ -75,5 +80,6 @@ public class doubly {
         }
         currNode.next=null;
     }
+//    public
 }
 
