@@ -54,6 +54,13 @@ public class doubly {
         }
         System.out.println("NULL");
     }
-
+    public void deletefirst(){
+        if(head == null) {
+            System.out.println("List is empty");
+            return;
+        }
+        size--;
+        head=head.next;
+    }
 }
 
