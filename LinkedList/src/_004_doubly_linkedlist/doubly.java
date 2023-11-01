@@ -62,5 +62,18 @@ public class doubly {
         size--;
         head=head.next;
     }
+    public void deletelast(){
+        if(head == null) {
+            System.out.println("List is empty");
+            return;
+        }
+        Node currNode = head;
+        Node nextNode = head.next;
+        while(nextNode != null) {
+            nextNode = nextNode.next;
+            currNode = currNode.next;
+        }
+        currNode.next=null;
+    }
 }
 
