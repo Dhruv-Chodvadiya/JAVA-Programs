@@ -105,6 +105,8 @@ public class doubly {
             return head;
         }
         Node newHead = reverseRecursive(head.next);
+        head.next.next = head;
+        head.next = null;
         return newHead;
     }
 }
