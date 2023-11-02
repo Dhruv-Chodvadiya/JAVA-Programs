@@ -101,6 +101,9 @@ public class doubly {
         head = prevNode;
     }
     public Node reverseRecursive(Node head) {
+        if(head == null || head.next == null){
+            return head;
+        }
         Node newHead = reverseRecursive(head.next);
         return newHead;
     }
