@@ -109,5 +109,9 @@ public class doubly {
         head.next = null;
         return newHead;
     }
+
+    public static void main(String[] args) {
+        doubly list = new doubly();
+    }
 }
 
