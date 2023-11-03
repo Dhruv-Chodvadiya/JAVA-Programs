@@ -120,6 +120,9 @@ public class doubly {
 
         list.reverseIterate();
         list.printList();
+
+        list.head=list.reverseRecursive(list.head);
+        list.printList();
     }
 }
 
