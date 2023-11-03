@@ -117,6 +117,9 @@ public class doubly {
         list.addLast(3);
         list.addLast(4);
         list.printList();
+
+        list.reverseIterate();
+        list.printList();
     }
 }
 
