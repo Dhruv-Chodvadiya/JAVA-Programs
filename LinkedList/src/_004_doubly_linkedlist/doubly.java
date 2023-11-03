@@ -8,17 +8,17 @@ public class doubly {
         this.size=0;
     }
     class Node{
-        String data;
+        int data;
         Node next;
 
-        Node(String data) {
+        Node(int data) {
             this.data=data;
             this.next=null;
             size++;
         }
     }
 
-    public void addFirst(String data) {
+    public void addFirst(int data) {
         Node newNode = new Node(data);
         if(head == null) {
             head = newNode;
@@ -28,7 +28,7 @@ public class doubly {
         newNode.next=head;
         head = newNode;
     }
-    public void addLast(String data) {
+    public void addLast(int data) {
         Node newNode = new Node(data);
         if(head == null) {
             head = newNode;
@@ -112,6 +112,11 @@ public class doubly {
 
     public static void main(String[] args) {
         doubly list = new doubly();
+        list.addLast(1);
+        list.addLast(2);
+        list.addLast(3);
+        list.addLast(4);
+        list.printList();
     }
 }
 
