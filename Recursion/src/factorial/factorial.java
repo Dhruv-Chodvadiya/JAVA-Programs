@@ -1,6 +1,7 @@
 package factorial;
 
 public class factorial {
+    // parameter
     static void printFactorial(int i,int multiply) {
         if(i < 1){
             System.out.println(multiply);
