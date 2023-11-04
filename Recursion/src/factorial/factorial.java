@@ -9,6 +9,7 @@ public class factorial {
         }
         printFactorial(i-1,multiply*i);
     }
+    // function
     static int printFactorial(int n){
         if(n==0){
             return 1;
