@@ -343,3 +343,10 @@ PROGRAM
     <li><b>003</b> &nbsp; &nbsp; &nbsp; singly LinkedList Reverse print</li>
     <li><b>004</b> &nbsp; &nbsp; &nbsp; Doubly LinkedList </li>
 </ul>
+
+#  Recursion
+
+<hr>
+<ul>
+    <li><b>001</b> &nbsp; &nbsp; &nbsp; factorial</li>
+</ul>
