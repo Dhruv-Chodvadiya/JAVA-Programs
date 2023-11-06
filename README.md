@@ -349,4 +349,5 @@ PROGRAM
 <hr>
 <ul>
     <li><b>001</b> &nbsp; &nbsp; &nbsp; factorial </li>
+    <li><b>002</b> &nbsp; &nbsp; &nbsp; Print 1 to N </li>
 </ul>
