@@ -342,6 +342,7 @@ PROGRAM
     <li><b>002</b> &nbsp; &nbsp; &nbsp; singly LinkedList Count length of LinkedList</li>
     <li><b>003</b> &nbsp; &nbsp; &nbsp; singly LinkedList Reverse print</li>
     <li><b>004</b> &nbsp; &nbsp; &nbsp; Doubly LinkedList </li>
+    <li><b>005</b> &nbsp; &nbsp; &nbsp; Get nth Node LinkedList </li>
 </ul>
 
 #  Recursion
