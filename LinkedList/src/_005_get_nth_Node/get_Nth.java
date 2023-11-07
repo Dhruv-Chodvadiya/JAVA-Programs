@@ -9,6 +9,7 @@ public class get_Nth {
         list.insert(40);
         list.insert(50);
         list.print();
+        list.nth(5);
     }
 }
 class LinkedL {
@@ -38,6 +39,27 @@ class LinkedL {
             System.out.print(temp.data + " ");
             temp = temp.next;
         }
+    }
+
+    public void nth(int i) {
+
+        int count=0;
+        Node temp = head;
+        while (temp != null){
+            count++;
+            temp = temp.next;
+        }
+        int n=0;
+        Node temp1 = head;
+        while (temp1 != null){
+            n++;
+            if(n == i){
+                System.out.println("Nth Value = "+temp1.data);
+                return;
+            }
+            temp1 = temp1.next;
+        }
+        System.out.println("No Data");
     }
 }
 class Node{
