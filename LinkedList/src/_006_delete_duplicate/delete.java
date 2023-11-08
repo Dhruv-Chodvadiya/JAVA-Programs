@@ -44,7 +44,6 @@ class LinkedL {
             temp = temp.next;
         }
     }
-
     public void delete() {
         Node c=head;
         while (c != null){
