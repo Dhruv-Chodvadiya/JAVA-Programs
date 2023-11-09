@@ -10,6 +10,7 @@ public class loop {
         list.insert(50);
         list.print();
         list.addloop();
+        System.out.println();
         list.checkloop();
     }
 }
@@ -51,8 +52,15 @@ class LinkedL {
 
     public void checkloop() {
         Node slow=head;
-        Node fast=head;
-
+        Node fast=head.next;
+        while (fast != null && fast.next != null) {
+            if (slow == fast) {
+                System.out.println("loop");
+                return ;
+            }
+            slow = slow.next;
+            fast = fast.next.next;
+        }
     }
 }
 class Node{
