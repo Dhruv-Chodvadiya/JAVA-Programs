@@ -345,7 +345,7 @@ PROGRAM
     <li><b>005</b> &nbsp; &nbsp; &nbsp; Get nth Node LinkedList </li>
     <li><b>006</b> &nbsp; &nbsp; &nbsp; Delete Duplicate Node LinkedList </li>
     <li><b>007</b> &nbsp; &nbsp; &nbsp; Loop Node LinkedList </li>
-    <li><b>006</b> &nbsp; &nbsp; &nbsp; Delete Duplicate Node LinkedList </li>
+    <li><b>006</b> &nbsp; &nbsp; &nbsp; Mid Node LinkedList </li>
 </ul>
 
 #  Recursion
