@@ -9,6 +9,7 @@ public class mid {
         list.insert(40);
         list.insert(50);
         list.print();
+        System.out.println();
         list.mid();
     }
 }
@@ -45,9 +46,13 @@ class LinkedL {
     }
 
     public void mid() {
-        Node slov = head;
+        Node slow = head;
         Node fast = head;
-
+        while (fast.next != null && fast.next.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        System.out.println("Mid = "+slow.data);
     }
 }
 class Node{
