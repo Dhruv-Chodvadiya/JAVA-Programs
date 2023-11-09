@@ -344,6 +344,8 @@ PROGRAM
     <li><b>004</b> &nbsp; &nbsp; &nbsp; Doubly LinkedList </li>
     <li><b>005</b> &nbsp; &nbsp; &nbsp; Get nth Node LinkedList </li>
     <li><b>006</b> &nbsp; &nbsp; &nbsp; Delete Duplicate Node LinkedList </li>
+    <li><b>007</b> &nbsp; &nbsp; &nbsp; Loop Node LinkedList </li>
+    <li><b>006</b> &nbsp; &nbsp; &nbsp; Delete Duplicate Node LinkedList </li>
 </ul>
 
 #  Recursion
