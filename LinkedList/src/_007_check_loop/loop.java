@@ -49,7 +49,6 @@ class LinkedL {
     public void addloop() {
         tail.next=head.next;
     }
-
     public void checkloop() {
         Node slow=head;
         Node fast=head.next;
