@@ -45,7 +45,6 @@ class LinkedL {
             temp = temp.next;
         }
     }
-
     public void addloop() {
         tail.next=head.next;
     }
