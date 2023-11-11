@@ -17,7 +17,6 @@ public class loop {
 class LinkedL {
     Node head;
     Node tail;
-
     LinkedL() {
         head = null;
         tail = null;
