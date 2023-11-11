@@ -33,7 +33,6 @@ class LinkedL {
             tail = tail.next;
         }
     }
-
     public void print() {
         if (head == null) {
             System.out.println("LinkedList is empty");
