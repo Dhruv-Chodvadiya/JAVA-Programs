@@ -2,7 +2,6 @@ package _007_check_loop;
 public class loop {
     public static void main(String[] args) {
         LinkedL list = new LinkedL();
-
         list.insert(10);
         list.insert(20);
         list.insert(30);
