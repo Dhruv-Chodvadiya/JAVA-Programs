@@ -2,7 +2,16 @@ package _009_count_loop_Node;
 
 public class count_loop {
     public static void main(String[] args) {
-
+        LinkedL list = new LinkedL();
+        list.insert(10);
+        list.insert(20);
+        list.insert(30);
+        list.insert(40);
+        list.insert(50);
+        list.print();
+        list.addloop();
+        System.out.println();
+        list.checkloop();
     }
 }
 
