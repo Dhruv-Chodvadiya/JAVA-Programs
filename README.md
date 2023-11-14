@@ -346,6 +346,7 @@ PROGRAM
     <li><b>006</b> &nbsp; &nbsp; &nbsp; Delete Duplicate Node LinkedList </li>
     <li><b>007</b> &nbsp; &nbsp; &nbsp; Loop Node LinkedList </li>
     <li><b>008</b> &nbsp; &nbsp; &nbsp; Mid Node LinkedList </li>
+    <li><b>009</b> &nbsp; &nbsp; &nbsp; Count loop Node</li>
 </ul>
 
 #  Recursion
