@@ -12,6 +12,7 @@ public class count_loop {
         list.addloop();
         System.out.println();
         list.checkloop();
+//        list=list.countLoop(head);
     }
 }
 
@@ -58,6 +59,32 @@ class LinkedL {
             fast = fast.next.next;
         }
     }
+    public int countLoop(Node p) {
+        Node fast = p;
+        Node slow = p;
+        Boolean check = false;
+
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+            if (fast == slow) {
+                check = true;
+                break;
+            }
+        }
+        int count = 1;
+        if (check) {
+            slow = slow.next;
+            while (slow != head) {
+                slow = slow.next;
+                count++;
+            }
+        } else {
+            return 0;
+        }
+        return count;
+    }
+
 }
 
 class Node{
