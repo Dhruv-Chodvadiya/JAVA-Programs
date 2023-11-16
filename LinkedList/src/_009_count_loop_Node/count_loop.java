@@ -15,6 +15,7 @@ public class count_loop {
 //        list=list.countLoop(head);
     }
 }
+
 class LinkedL {
     Node head;
     Node tail;
