@@ -326,8 +326,7 @@ PROGRAM
 
 </ul>
 
-#  ArrayList 
-
+#  ArrayList
 
 <hr>
 <ul>
