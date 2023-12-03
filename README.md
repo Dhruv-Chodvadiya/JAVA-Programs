@@ -328,7 +328,6 @@ PROGRAM
 
 #  ArrayList
 
-
 <hr>
 <ul>
     <li>Add Element&nbsp | &nbsp;Set Element&nbsp; | &nbsp;Delete Element &nbsp;|&nbsp; Size&nbsp; | &nbsp;Loops &nbsp;|&nbsp; Sorting </li>
