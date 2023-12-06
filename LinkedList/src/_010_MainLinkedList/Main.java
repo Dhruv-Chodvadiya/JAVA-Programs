@@ -253,18 +253,18 @@ class list{
         }
     }
 
-//    public void revers(){
-//        Node temp = head;
-//        Node prev = null;
-//
-//        while (temp != null) {
-//            Node curr = temp;
-//            temp = temp.next;
-//            curr.next = prev;
-//            prev = curr;
-//        }
-//        head = prev;
-//    }
+    public void revers(){
+        Node temp = head;
+        Node prev = null;
+
+        while (temp != null) {
+            Node curr = temp;
+            temp = temp.next;
+            curr.next = prev;
+            prev = curr;
+        }
+        head = prev;
+    }
 
 }
 class Node {
