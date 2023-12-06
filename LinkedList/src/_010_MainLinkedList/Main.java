@@ -9,7 +9,6 @@ public class Main {
         l.insert(20);
         l.insert(30);
         l.insert(40);
-//        l.insert(40);
         l.insert(50);
         l.insert(60);
         l.insert(70);
