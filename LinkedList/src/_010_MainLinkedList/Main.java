@@ -29,9 +29,9 @@ public class Main {
 
 //        l.getEndNode(5);
 
-        l.deleteNodePointer(l.head.next);
+//        l.deleteNodePointer(l.head.next);
 
-//        l.mid();
+        l.mid();
 
 //        l.tail.next = l.head.next;
 //        System.out.println(l.loopDetect());
