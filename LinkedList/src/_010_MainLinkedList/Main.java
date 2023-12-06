@@ -31,7 +31,7 @@ public class Main {
 
 //        l.deleteNodePointer(l.head.next);
 
-        l.mid();
+//        l.mid();
 
 //        l.tail.next = l.head.next;
 //        System.out.println(l.loopDetect());
