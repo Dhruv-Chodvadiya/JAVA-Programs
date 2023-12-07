@@ -347,6 +347,7 @@ PROGRAM
     <li><b>007</b> &nbsp; &nbsp; &nbsp; Loop Node LinkedList </li>
     <li><b>008</b> &nbsp; &nbsp; &nbsp; Mid Node LinkedList </li>
     <li><b>009</b> &nbsp; &nbsp; &nbsp; Count loop Node</li>
+    <li><b>010</b> &nbsp; &nbsp; &nbsp; All Singly LinkedList </li>
 </ul>
 
 #  Recursion
