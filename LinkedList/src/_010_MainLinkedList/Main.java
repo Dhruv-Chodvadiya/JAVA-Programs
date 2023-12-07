@@ -11,7 +11,6 @@ public class Main {
         l.insert(40);
         l.insert(50);
 
-
 //        l.update(40,400);
 
 //        l.find(400);
