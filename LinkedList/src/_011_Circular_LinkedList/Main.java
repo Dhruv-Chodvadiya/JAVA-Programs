@@ -9,7 +9,7 @@ public class Main {
         list.insert(40);
         list.insert(50);
 
-        System.out.println(list.countLoop(list.head));
+//        System.out.println(list.countLoop(list.head));
 
         list.Chack();
 
