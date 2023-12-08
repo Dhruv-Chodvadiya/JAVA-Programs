@@ -15,7 +15,6 @@ public class Main {
 
 //        list.Exchange();
 
-
         list.print();
     }
 }
