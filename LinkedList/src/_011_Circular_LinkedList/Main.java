@@ -13,7 +13,7 @@ public class Main {
 
 //        list.Chack();
 
-//        list.Exchange();
+        list.Exchange();
 
         list.print();
     }
