@@ -12,6 +12,7 @@ public class Main {
 //        System.out.println(list.countLoop(list.head));
 
 //        list.Chack();
+
         list.Exchange();
 
         list.print();
