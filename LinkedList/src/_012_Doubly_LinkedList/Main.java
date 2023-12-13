@@ -13,7 +13,7 @@ public class Main {
 
 //        list.paris(70);
 
-//        list.Reverse();
+        list.Reverse();
 
         list.print();
         list.printRev();
