@@ -1,8 +1,8 @@
 package _012_Doubly_LinkedList;
 
-public class Main {
+public class MainD {
     public static void main(String[] args) {
-        LinkedList list = new LinkedList();
+        LinkedListt list = new LinkedListt();
         list.insert(10);
         list.insert(20);
         list.insert(30);
@@ -19,12 +19,12 @@ public class Main {
         list.printRev();
     }
 }
-class LinkedList{
-    Node head;
-    Node tail;
+class LinkedListt{
+    Nod head;
+    Nod tail;
 
     public void insert(int data) {
-        Node node = new Node(data);
+        Nod node = new Nod(data);
         if(head == null){
             head = node;
             tail = node;
@@ -35,7 +35,7 @@ class LinkedList{
         }
     }
     public void print(){
-        Node temp = head;
+        Nod temp = head;
         while (temp != null){
             System.out.print(temp.data + " ");
             temp = temp.next;
@@ -43,7 +43,7 @@ class LinkedList{
         System.out.println();
     }
     public void printRev(){
-        Node temp = tail;
+        Nod temp = tail;
         while (temp != null){
             System.out.print(temp.data + " ");
             temp = temp.prev;
@@ -60,11 +60,11 @@ class LinkedList{
                 tail = null;
             }
         } else if (tail.data == data) {
-            Node temp = tail.prev;
+            Nod temp = tail.prev;
             temp.next = null;
             tail = temp;
         }else {
-            Node temp = head;
+            Nod temp = head;
             while (temp.data != data){
                 temp = temp.next;
             }
@@ -74,8 +74,8 @@ class LinkedList{
     }
 
     public void paris(int sum) {
-        Node left = head;
-        Node right = tail;
+        Nod left = head;
+        Nod right = tail;
 
         while (left != null && right != null && left != right){
             if(left.data + right.data == sum){
@@ -97,12 +97,12 @@ class LinkedList{
 
 }
 
-class Node{
+class Nod {
     int data;
-    Node prev;
-    Node next;
+    Nod prev;
+    Nod next;
 
-    public Node(int data){
+    public Nod(int data){
         this.data = data;
     }
 }
