@@ -9,7 +9,7 @@ public class MainD {
         list.insert(40);
         list.insert(50);
 
-//        list.delete(20);
+        list.delete(20);
 
         list.paris(70);
 
