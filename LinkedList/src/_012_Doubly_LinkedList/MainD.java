@@ -11,7 +11,7 @@ public class MainD {
 
 //        list.delete(20);
 
-//        list.paris(70);
+        list.paris(70);
 
         list.Reverse();
 
