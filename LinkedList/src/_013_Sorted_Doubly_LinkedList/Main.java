@@ -8,7 +8,7 @@ public class Main {
         list.insert(30);
         list.insert(50);
 
-        list.head = list.sortedInsert(list.head,35);
+//        list.head = list.sortedInsert(list.head,35);
 //        list.head = list.sortedInsert(list.head,35);
 
 //        list.deleteDuplicate();
