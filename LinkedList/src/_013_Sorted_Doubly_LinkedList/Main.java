@@ -19,6 +19,7 @@ public class Main {
         list.printRev();
     }
 }
+
 class LinkedList {
     Node head;
     Node tail;
