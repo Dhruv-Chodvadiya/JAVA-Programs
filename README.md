@@ -349,6 +349,8 @@ PROGRAM
     <li><b>009</b> &nbsp; &nbsp; &nbsp; Count loop Node</li>
     <li><b>010</b> &nbsp; &nbsp; &nbsp; All Singly LinkedList </li>
     <li><b>011</b> &nbsp; &nbsp; &nbsp; All Circular LinkedList </li>
+    <li><b>012</b> &nbsp; &nbsp; &nbsp; All Doubly LinkedList </li>
+    <li><b>013</b> &nbsp; &nbsp; &nbsp; All Sorted Doubly LinkedList </li>
 </ul>
 
 #  Recursion
