@@ -39,7 +39,6 @@ public class _001_All_Recursion {
 //        System.out.println(Prime(n,2));
 
 
-
         }
 
         private static Boolean Prime(int n,int i) {
