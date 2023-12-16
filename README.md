@@ -357,7 +357,8 @@ PROGRAM
 
 <hr>
 <ul>
-    <li><b>001</b> &nbsp; &nbsp; &nbsp; factorial </li>
-    <li><b>002</b> &nbsp; &nbsp; &nbsp; Print 1 to N </li>
-    <li><b>003</b> &nbsp; &nbsp; &nbsp; Print N to 1 </li>
+    <li><b>001</b> &nbsp; &nbsp; &nbsp; All Recursion </li>
+    <li><b>002</b> &nbsp; &nbsp; &nbsp; factorial </li>
+    <li><b>003</b> &nbsp; &nbsp; &nbsp; Print 1 to N </li>
+    <li><b>004</b> &nbsp; &nbsp; &nbsp; Print N to 1 </li>
 </ul>
