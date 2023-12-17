@@ -17,6 +17,7 @@ public class LRUCache {
 
 class LRU {
     HashMap<Integer, Node> map = new HashMap<>();
+
     DoublyLinkList ll = new DoublyLinkList();
 
     int capacity;
