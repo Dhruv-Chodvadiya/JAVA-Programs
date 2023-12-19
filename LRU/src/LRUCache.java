@@ -23,6 +23,7 @@ class LRU {
         this.capacity = capacity;
     }
 
+
     public void add(int data) {
         if (map.containsKey(data)) {
             if (ll.tailCheck(data)) {
