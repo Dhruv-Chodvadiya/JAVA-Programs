@@ -14,7 +14,6 @@ public class LRUCache {
         lru.print();
     }
 }
-
 class LRU {
     HashMap<Integer, Node> map = new HashMap<>();
     DoublyLinkList ll = new DoublyLinkList();
