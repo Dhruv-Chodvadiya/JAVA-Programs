@@ -20,7 +20,6 @@ class LinkedL{
         head = null;
         tail = null;
     }
-
     public void insert(int data) {
         Node node = new Node(data);
         if(head == null){
