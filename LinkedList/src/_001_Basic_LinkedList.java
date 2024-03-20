@@ -12,7 +12,6 @@ public class _001_Basic_LinkedList {
         list.find(30);
     }
 }
-
 class LinkedL{
     Node head;
     Node tail;
