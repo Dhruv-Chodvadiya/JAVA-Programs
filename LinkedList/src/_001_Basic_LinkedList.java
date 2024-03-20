@@ -30,7 +30,6 @@ class LinkedL{
             tail = tail.next;
         }
     }
-
     public void update(int old, int newValue) {
         Node temp = head;
         while (temp != null){
