@@ -39,7 +39,6 @@ class LinkedL{
             temp = temp.next;
         }
     }
-
     public void find(int value) {
         Node temp = head;
         while (temp != null){
