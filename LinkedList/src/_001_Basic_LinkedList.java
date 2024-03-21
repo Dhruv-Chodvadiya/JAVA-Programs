@@ -16,8 +16,6 @@ public class _001_Basic_LinkedList {
 class LinkedL{
     Node head;
     Node tail;
-
-
     LinkedL(){
         head = null;
         tail = null;
