@@ -62,7 +62,6 @@ class LinkedL{
             temp = temp.next;
         }
     }
-
     public void delete(int data) {
         if(head.data == data){
             head = head.next;
