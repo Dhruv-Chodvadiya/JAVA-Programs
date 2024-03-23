@@ -50,7 +50,6 @@ class LinkedL{
         }
         System.out.println("not present");
     }
-
     public void print() {
         if(head == null){
             System.out.println("LinkedList is empty");
