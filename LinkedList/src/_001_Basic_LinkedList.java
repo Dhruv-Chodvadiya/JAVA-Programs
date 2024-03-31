@@ -82,6 +82,7 @@ class LinkedL{
         }
     }
 }
+
 class Node{
     int data;
     Node next;
