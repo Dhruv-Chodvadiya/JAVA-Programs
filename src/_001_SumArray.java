@@ -3,7 +3,6 @@ public class _001_SumArray {
         int[] arr={10,20,30,40,50};
         int ans=0;
 
-
         for (int i = 0; i < arr.length; i++) {
             ans += arr[i];
         }
